@@ -123,6 +123,7 @@ body {
 @media (max-width: 991px) {
   .header .header__nav .list {
     max-width: 700px;
+    margin: 0 auto;
     flex-wrap: wrap;
   }
 }
